@@ -9,14 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skeptre/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/skeptre/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/skeptre/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/skeptre/LeetCode/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/skeptre/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/skeptre/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skeptre/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/skeptre/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
