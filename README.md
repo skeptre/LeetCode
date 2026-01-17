@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/skeptre/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/skeptre/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/skeptre/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/skeptre/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/skeptre/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
